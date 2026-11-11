@@ -1,0 +1,23 @@
+{
+  "name": "스마트 농업도우미 Pro",
+  "short_name": "농업도우미Pro",
+  "description": "기후변화 대응 AI 개화 예측, 냉해 경보, 농업 이슈 브리핑 종합 플랫폼",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#1b4332",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
